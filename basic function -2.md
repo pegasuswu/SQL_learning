@@ -47,7 +47,7 @@ Right join get all records in the right table, even if there is no corresponding
 
 ![](https://pic1.zhimg.com/80/v2-742cc2400cf90e34e4b19d0587047dec_1440w.jpg)  
 
-From above, we can get to know:
+From above, we can get to know: 
 A left join B = B right join A
 B left join A = A right join B  
 So  We do not discuss it any more.
